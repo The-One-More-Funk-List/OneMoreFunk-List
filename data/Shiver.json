@@ -1,0 +1,19 @@
+{
+    "id": 56210242,
+    "name": "Shiver",
+    "author": "SpKale",
+    "creators": ["SpKale"],
+    "verifier": "Alexmoss27611",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": "70",
+    "records": [
+        {
+            "user": "JacobRBLX123",
+            "percent": 100
+        },
+        {
+            "user": "HJR_759",
+            "percent": 100
+        }
+    ]
+}
