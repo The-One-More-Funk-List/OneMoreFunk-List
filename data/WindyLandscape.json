@@ -5,13 +5,11 @@
     "records": [
         {
             "user": "JacobRBLX123",
-            "percent": 100,
-            "hz": 360
+            "percent": 100
         },
         {
             "user": "Alexmoss27611",
-            "percent": 100,
-            "hz": 120
+            "percent": 100
         }
     ]
 }
