@@ -1,0 +1,17 @@
+{
+    "id": 4957691,
+    "name": "Windy Landscape",
+    "percentToQualify": "80",
+    "records": [
+        {
+            "user": "JacobRBLX123",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Alexmoss27611",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
