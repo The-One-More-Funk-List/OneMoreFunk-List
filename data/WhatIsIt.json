@@ -1,0 +1,19 @@
+{
+    "id": 61348317,
+    "name": "What is it",
+    "author": "Booglee",
+    "creators": ["Booglee"],
+    "verifier": "JacobRBLX123",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": "80",
+    "records": [
+        {
+            "user": "Alexmoss27611",
+            "percent": 100
+        },
+        {
+            "user": "HJR_759",
+            "percent": 100
+        }
+    ]
+}
