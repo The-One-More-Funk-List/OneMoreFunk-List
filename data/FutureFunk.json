@@ -3,14 +3,10 @@
     "name": "Future Funk",
     "author": "Different Publisher",
     "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
+    "verifier": "Alexmoss27611",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
     "percentToQualify": "70",
     "records": [
-        {
-            "user": "Alexmoss27611",
-            "percent": 100
-        },
         {
             "user": "JacobRBLX123",
             "percent": 100
