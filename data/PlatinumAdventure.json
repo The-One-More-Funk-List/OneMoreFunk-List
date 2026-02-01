@@ -1,0 +1,31 @@
+{
+    "id": 4284013,
+    "name": "Platinum Adventure",
+    "author": "Jerry4",
+    "creators": ["Jerry4"],
+    "verifier": "JJAura",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": "70",
+    "records": [
+        {
+            "user": "JacobRBLX123",
+            "percent": 100
+        },
+        {
+            "user": "HJR_759",
+            "percent": 100
+        },
+        {
+            "user": "Alexmoss27611",
+            "percent": 100
+        },
+        {
+            "user": "Boo_79",
+            "percent": 100
+        },
+        {
+            "user": "Liampeps",
+            "percent": 100
+        }
+    ]
+}
