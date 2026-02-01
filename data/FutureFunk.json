@@ -1,6 +1,10 @@
 {
     "id": 44062068,
     "name": "Future Funk",
+    "author": "Different Publisher",
+    "creators": ["Solo_Creator"],
+    "verifier": "Solo_Creator",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
     "percentToQualify": "70",
     "records": [
         {
