@@ -4,9 +4,13 @@
     "author": "Jax",
     "creators": ["Jax"],
     "verifier": "JacobRBLX123",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "verification": "https://youtu.be/Xl4stg-bsxk",
     "percentToQualify": "70",
     "records": [
+        {
+            "user": "MatthewQ",
+            "percent": 100
+        },
         {
             "user": "Liampeps",
             "percent": 100
