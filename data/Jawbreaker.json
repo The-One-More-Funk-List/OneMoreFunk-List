@@ -7,6 +7,9 @@
     "verification": "https://youtu.be/nze1RVN_H5c",
     "percentToQualify": "80",
     "records": [
-
+        {
+            "user": "MatthewQ",
+            "percent": 100
+        }
     ]
 }
