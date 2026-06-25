@@ -5,7 +5,7 @@
     "creators": ["Zobros"],
     "verifier": "JacobRBLX123",
     "verification": "https://youtu.be/dOdPoU1ncOc",
-    "percentToQualify": "80",
+    "percentToQualify": "70",
     "records": [
         {
             "user": "Alexmoss27611",
@@ -13,6 +13,10 @@
         },
         {
             "user": "MatthewQ",
+            "percent": 100
+        },
+        {
+            "user": "Liampeps",
             "percent": 100
         }
     ]
